@@ -26,7 +26,7 @@ You can download the dataset from the NFHS website.
 
 
 ## Folder structure
-female_lfpr_wealth_india
+female_lfpr_wealth_india/
 ┣ code/
 ┃ ┗ analysis.do # Main Stata script
 ┣ data/
