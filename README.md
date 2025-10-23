@@ -25,14 +25,17 @@ You can download the dataset from the NFHS website.
 
 
 
-## Folder structure
+## Project Structure
+
 female_lfpr_wealth_india/
-┣ code/
-┃ ┗ analysis.do # Main Stata script
-┣ data/
-┣ docs/
-┃ ┗ paper.pdf # Research paper 
-┗ README.md # This documentation file
+├── code/
+│   └── analysis.do        # Main Stata script
+├── data/  
+|   └── IAIR7EFL.DTA <-- place your downloaded data here
+├── docs/
+│   └── paper.pdf          # Research paper
+└── README.md              # Project documentation
+
 
 ## Methodology
 
