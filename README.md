@@ -16,16 +16,23 @@ To run this project, you need:
   ```stata
   ssc install asdoc
   ssc install psacalc
-## Dataset 
-National family health survey 2005 dataset
+## Data
 
-## female_lfpr_wealth_India
+The analysis uses the NFHS dataset `IAIR7EFL.DTA`.  
+**Note:** The dataset is proprietary and **cannot be included** in this repository.  
 
+You can download the dataset from the NFHS website. 
+
+
+
+## Folder structure
+female_lfpr_wealth_india
 ┣ code/
 ┃ ┗ analysis.do # Main Stata script
+┣ data/
 ┣ docs/
-┃ ┗ paper.pdf # Research paper or report
-┗ README.md # Documentation file
+┃ ┗ paper.pdf # Research paper 
+┗ README.md # This documentation file
 
 ## Methodology
 
