@@ -39,7 +39,7 @@ female_lfpr_wealth_india/
     
   docs/
     
-    paper.pdf          # Research paper
+    Project.pdf          # Research paper
     
   README.md            # Project documentation
 
