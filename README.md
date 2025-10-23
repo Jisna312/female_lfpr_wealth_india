@@ -28,13 +28,14 @@ You can download the dataset from the NFHS website.
 ## Project Structure
 
 female_lfpr_wealth_india/
-├── code/
-│   └── analysis.do        # Main Stata script
-├── data/
-│   └── IAIR7EFL.DTA       # Place your downloaded data here (dataset not included)
-├── docs/
-│   └── paper.pdf          # Research paper
-└── README.md              # Project documentation
+|-- code/
+|   |-- analysis.do        # Main Stata script
+|-- data/
+|   |-- IAIR7EFL.DTA       # Place your downloaded data here (dataset not included)
+|-- docs/
+|   |-- paper.pdf          # Research paper
+|-- README.md              # Project documentation
+
 
 
 
